@@ -41,3 +41,4 @@ bower_components
 .bower-tmp
 
 # End of https://www.gitignore.io/api/bower,angular
+node_modules
